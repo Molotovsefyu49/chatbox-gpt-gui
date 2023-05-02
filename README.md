@@ -18,3 +18,4 @@ Run the app by executing the main.py file:
 >>python main.py
 
 
+![chat](https://user-images.githubusercontent.com/77914588/235746849-c9bc0f18-d99b-4f4d-9bc1-bf5af398aa4d.PNG)
